@@ -6,4 +6,5 @@ function sum()
     console.log(x)
     console.log(y)
     console.log(z)
+    alert("Thankyou for submitting")
 }
